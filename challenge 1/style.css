@@ -4,13 +4,13 @@ body{
 .top{
     position: fixed;
     top: -80%;
-    left: -30%;
+    left: -25%;
     z-index:-1;
 }
 .card{
     height:330px;
     width:300px;
-    margin:10% auto;
+    margin:12% auto;
     background-color: white;
     border-radius: 20px;
     z-index: 100;
